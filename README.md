@@ -7,9 +7,10 @@
 #### Software Development Intern at Doğuş Teknoloji
 
 Here are some ideas to get you started:
-- 💻 Skills: .NET / C# / Javascript / NoSQL / SQL / Swift / Unit Testing 
+- 💻 Skills: C# / .NET / Javascript / NoSQL / SQL / Swift / Unit Testing 
 - 🔭 I’m currently working on .NET / C#
 - 🌱 I’m currently learning Node.js
+- 📫 mertcelik2399@gmail.com
 
 #### How to reach me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/mert-celik-1)
