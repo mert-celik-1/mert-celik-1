@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 #### How to reach me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/mert-celik-1)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-006192?style=flat-quare&labelColor=006192&logo=LinkedIn&logoColor=white&link=link)](https://www.linkedin.com/in/mert-celikk1/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mertcelik2399@gmail.com)
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mert-celik-1&show_icons=true)
