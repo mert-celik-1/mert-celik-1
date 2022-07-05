@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mertcelik2399@gmail.com)
 
 -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=ardasdasdas&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=mert-celik-1&show_icons=true)
