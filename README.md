@@ -4,12 +4,12 @@
 **mert-celik-1/mert-celik-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-#### Software Development Intern at Doğuş Teknoloji
+#### Software Developer at LC Waikiki
 
 Here are some ideas to get you started:
 - 💻 Skills: C# / .NET / Javascript / NoSQL / SQL / Swift / Unit Testing 
 - 🔭 I’m currently working on .NET / C#
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js and React.js
 - 📫 mertcelik2399@gmail.com
 
 #### How to reach me:
