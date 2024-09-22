@@ -4,7 +4,7 @@
 **mert-celik-1/mert-celik-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-#### Software Developer at LC Waikiki
+#### Software Developer at Hepsiburada
 
 Here are some ideas to get you started:
 - 💻 Skills: C# / .NET / Javascript / NoSQL / SQL / Swift / Unit Testing 
